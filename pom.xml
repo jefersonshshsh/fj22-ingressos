@@ -150,5 +150,12 @@
             </plugin>
         </plugins>
     </build>
+    
+    <developers>
+    	<developer>
+	    	<name>Jeferson</name>
+	    	<email>teste@teste.com</email>
+    	</developer>
+    </developers>
 
 </project>
